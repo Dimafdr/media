@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cnbs9i30yaptuf7p?svg=true)](https://ci.appveyor.com/project/Dimafdr/media)
-### [Gh-page](https://mksinc.github.io/AHJ-hw.-10-Media.-1-2-3-Timeline/)
+### [Gh-page](https://dimafdr.github.io/media/)
 # 10. Домашнее задание к лекции «Geolocation, Notification, Media»
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
